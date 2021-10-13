@@ -10,7 +10,7 @@ The NYC Citibike Research was put together into a Tableau Public Story that can 
 
 https://public.tableau.com/app/profile/nicole.freeman/viz/shared/XYKXQ6RH9
 
-- [link to dashboard](https://github.com/nfreeman19/bikesharing/blob/main/images/1%20-%20Bike%20Utilization.png)Point 1: Bike Utilization - This is showing each Citibike with trip duration. The larger the circle, the more the Citibike has been used. 
+- [Point 1](https://github.com/nfreeman19/bikesharing/blob/main/images/1%20-%20Bike%20Utilization.png): Bike Utilization - This is showing each Citibike with trip duration. The larger the circle, the more the Citibike has been used. 
 
 - Point 2: Trip, Gender and Rider Information - This shows the total number of trips with a breakdown by gender and a breakdown by rider type. For rider type, subscriber means annual subscribers and customer means short term customers.
 
