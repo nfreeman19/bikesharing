@@ -22,7 +22,7 @@ https://public.tableau.com/app/profile/nicole.freeman/viz/shared/XYKXQ6RH9
 
 - [Point 6](https://github.com/nfreeman19/bikesharing/blob/main/images/6%20-%20Trips%20by%20Gender%20(Weekday%20per%20Hour).png) Trips by Gender (Weekday per Hour) - This heatmap shows when bikes are being used most during each day of the week and by each hour of the day, and separated by gender. Dark red color means the highest usage and light gold means the lowest usage. 
 
-- Point 7: Usertrips by Gender by Weekday - This heatmap shows the usertrips by gender and by day of the week, and is separated by Customer and Subscriber. This is sortable by both user type and by gender. The dark blue color means highest usage and the light blue color means lowest usage. 
+- [Point 7](https://github.com/nfreeman19/bikesharing/blob/main/images/7%20-%20Usertrips%20by%20Gender%20by%20Weekday.png) Usertrips by Gender by Weekday - This heatmap shows the usertrips by gender and by day of the week, and is separated by Customer and Subscriber. This is sortable by both user type and by gender. The dark blue color means highest usage and the light blue color means lowest usage. 
 
 ## Summary
 
