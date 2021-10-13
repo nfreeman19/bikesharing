@@ -12,7 +12,7 @@ https://public.tableau.com/app/profile/nicole.freeman/viz/shared/XYKXQ6RH9
 
 - [Point 1](https://github.com/nfreeman19/bikesharing/blob/main/images/1%20-%20Bike%20Utilization.png): Bike Utilization - This is showing each Citibike with trip duration. The larger the circle, the more the Citibike has been used. 
 
-- Point 2: Trip, Gender and Rider Information - This shows the total number of trips with a breakdown by gender and a breakdown by rider type. For rider type, subscriber means annual subscribers and customer means short term customers.
+- [Point 2](https://github.com/nfreeman19/bikesharing/blob/main/images/2%20-%20Trip%2C%20Gender%20and%20Rider%20Information.png) Trip, Gender and Rider Information - This shows the total number of trips with a breakdown by gender and a breakdown by rider type. For rider type, subscriber means annual subscribers and customer means short term customers.
 
 - Point 3: Checkout Times for Users - This sortable chart by hour of the day shows the trip duration time for each bike by minute.
 
