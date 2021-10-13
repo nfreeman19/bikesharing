@@ -16,7 +16,7 @@ https://public.tableau.com/app/profile/nicole.freeman/viz/shared/XYKXQ6RH9
 
 - [Point 3](https://github.com/nfreeman19/bikesharing/blob/main/images/3%20-%20Checkout%20Times%20for%20Users.png) Checkout Times for Users - This sortable chart by hour of the day shows the trip duration time for each bike by minute.
 
-- Point 4: Checkout Times by Gender - This sortable chart by hour of the day shows the trip duration time for each bike by minute but also is separated by gender with the ability to sort by gender as well.
+- [Point 4](https://github.com/nfreeman19/bikesharing/blob/main/images/4%20-%20Checkout%20Times%20by%20Gender.png) Checkout Times by Gender - This sortable chart by hour of the day shows the trip duration time for each bike by minute but also is separated by gender with the ability to sort by gender as well.
 
 - Point 5: Trips by Weekday for Each Hour - This heatmap shows when bikes are being used most during each day of the week and by each hour of the day. Dark red color means the highest usage and light gold color means the lowest usage.
 
