@@ -10,19 +10,19 @@ The NYC Citibike Research was put together into a Tableau Public Story that can 
 
 https://public.tableau.com/app/profile/nicole.freeman/viz/shared/XYKXQ6RH9
 
-Point 1: Bike Utilization - This is showing each Citibike with trip duration. The larger the circle, the more the Citibike has been used. 
+- Point 1: Bike Utilization - This is showing each Citibike with trip duration. The larger the circle, the more the Citibike has been used. 
 
-Point 2: Trip, Gender and Rider Information - This shows the total number of trips with a breakdown by gender and a breakdown by rider type. For rider type, subscriber means annual subscribers and customer means short term customers.
+- Point 2: Trip, Gender and Rider Information - This shows the total number of trips with a breakdown by gender and a breakdown by rider type. For rider type, subscriber means annual subscribers and customer means short term customers.
 
-Point 3: Checkout Times for Users - This sortable chart by hour of the day shows the trip duration time for each bike by minute.
+- Point 3: Checkout Times for Users - This sortable chart by hour of the day shows the trip duration time for each bike by minute.
 
-Point 4: Checkout Times by Gender - This sortable chart by hour of the day shows the trip duration time for each bike by minute but also is separated by gender with the ability to sort by gender as well.
+- Point 4: Checkout Times by Gender - This sortable chart by hour of the day shows the trip duration time for each bike by minute but also is separated by gender with the ability to sort by gender as well.
 
-Point 5: Trips by Weekday for Each Hour - This heatmap shows when bikes are being used most during each day of the week and by each hour of the day. Dark red color means the highest usage and light gold color means the lowest usage.
+- Point 5: Trips by Weekday for Each Hour - This heatmap shows when bikes are being used most during each day of the week and by each hour of the day. Dark red color means the highest usage and light gold color means the lowest usage.
 
-Point 6: Trips by Gender (Weekday per Hour) - This heatmap shows when bikes are being used most during each day of the week and by each hour of the day, and separated by gender. Dark red color means the highest usage and light gold means the lowest usage. 
+- Point 6: Trips by Gender (Weekday per Hour) - This heatmap shows when bikes are being used most during each day of the week and by each hour of the day, and separated by gender. Dark red color means the highest usage and light gold means the lowest usage. 
 
-Point 7: Usertrips by Gender by Weekday - This heatmap shows the usertrips by gender and by day of the week, and is separated by Customer and Subscriber. This is sortable by both user type and by gender. The dark blue color means highest usage and the light blue color means lowest usage. 
+- Point 7: Usertrips by Gender by Weekday - This heatmap shows the usertrips by gender and by day of the week, and is separated by Customer and Subscriber. This is sortable by both user type and by gender. The dark blue color means highest usage and the light blue color means lowest usage. 
 
 ## Summary
 
